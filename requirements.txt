@@ -1,4 +1,4 @@
-phidata
+phidata 
 python-dotenv
 yfinance
 packaging
